@@ -29,7 +29,9 @@ aws eks --profile personal update-kubeconfig --name Sophia-P3-Cluster --region u
 
 <br>
 
-4. You can run ``
+4. You can run `kubectl get nodes` to list all three nodes running in this provisioned cluster.
+
+<br>
 
 ## `kubectl` commands
 
