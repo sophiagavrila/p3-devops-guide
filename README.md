@@ -1,5 +1,7 @@
 # Operation: Deploy to AWS EKS
-In order to connect to the kubernetes cluster managed by AWS, you will need download the AWS CLI.  For Windows, go [here](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-windows.html); Mac  users go [here](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-mac.html).
+In order to connect to the kubernetes cluster managed by AWS, you will need download the AWS CLI.  
+- For Windows, go [here](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-windows.html)
+- Mac  users go [here](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-mac.html).
 
 1. Once you have the AWS CLI installed, open up Commpand Prompt/terminal and run the following to confirm:
 
